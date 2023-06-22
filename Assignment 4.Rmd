@@ -80,7 +80,7 @@ print(t_test_growth)
 
 **Question 3.2**: What is the $p$-value of the test, and what does that mean? Write down your answer below.
 
-The p-value of the test is 0.06871. This means that for a chance of 0.07 there is no true difference between growth in between both of the group. 
+The p-value of the test is 0.06871. This means that for a chance of about 0.07 there is no true difference between growth in between both of the groups. 
 
 We can also control for other factors by including them in a linear model, for example:
 
